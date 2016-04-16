@@ -1,6 +1,6 @@
 # lab4
 question A
-
+T
 
 queston B
 output:
